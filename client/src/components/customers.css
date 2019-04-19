@@ -10,3 +10,14 @@ li{
   line-height: 2rem;
   border-bottom: 1px dotted #777;
 }
+body {
+  font: 90%/1.45em "Helvetica Neue", HelveticaNeue, Verdana, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #fff;
+}
+
+.red {
+  background-color: red !important;
+}
