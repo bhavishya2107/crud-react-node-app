@@ -1,10 +1,6 @@
-# React Express Starter Pack
+# CRUD React Express APP
 
 > Create full stack apps with React and Express. Run your client and server with a single command. 
-
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
 
 ## Quick Start
 
@@ -29,10 +25,16 @@ npm run client
 
 ## App Info
 
+This is a crud app where roles for different employees are given.
+A employee with a designation can be added, removed and updated in the database.
+Proper forms are made to add and remove roles/designation and routing is done.
+To display all the records in the DB datatable is used.
+This app is only for learning purpose.
+
+
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Bhavishya Negi
 
 ### Version
 
